@@ -1,3 +1,8 @@
+## 목차
+- [Process vs Thread](#process-vs-thread)
+- [PMultiThread 와 MultiProcess](#multithread-와-multiprocess)
+<br/><br/>
+
 ## Process vs Thread
 ### Process를 알아보자! 
 #### 프로세스의 의미
@@ -7,7 +12,7 @@
 #### 프로세스의 상태 변화
 
 <center>
-<img src="images/processstatus.png">
+<img src="/images/processstatus.png">
  사진출처 : TOPCIT
  </center>
 
@@ -50,23 +55,27 @@
 - 따라서 콘텍스트 스위칭이 **잦아지면 오버헤드가 발생**한다.
 - 콘텍스트 스위칭을 하는 주체 = OS 스케줄러 이다
 
+[목차로 돌아가기](#목차)
+<br/><br/>
 
-### MultiThread 와 MultiProcess
-#### 멀티프로세스
-##### 장점
+## MultiThread 와 MultiProcess
+### 멀티프로세스
+#### 장점
 - 하나의 프로세스가 죽더라도 다른 프로세스에 영향을 끼치지 않음
   
-##### 단점
+#### 단점
 - context 전환과 함께 각 프로세스의 memory도 전환됨. 즉 높은 context swtiching 비용 발생
 - 상대적으로 많은 메모리 공간과 CPU 시간을 차지함
 
-#### 멀티스레드
-##### 장점
+### 멀티스레드
+#### 장점
 - 적은 메모리 공간을 차지
 - 스레드간 통신 시 Heap 영역을 이용하여 데이터를 전달하므로 통신 방법이 간단해짐
 - code, data, heap 영역은 공유하기 때문에 context swtiching 비용이 상대적으로 적고 응답속도가 빠름
 - 이로인해 시스템 처리량이 향상 됨
 
-#### 단점
+### 단점
 - 동기화 문제 발생. 즉, 자원 공유 문제가 발생함
 - 하나의 스레드에서 문제가 발생시 전체프로세스가 영향을 받는다.
+
+[목차로 돌아가기](#목차)
