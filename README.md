@@ -1,10 +1,17 @@
 # CS-Study❤️‍🔥
 👩🏻‍💻👩🏻‍💻컴퓨터공학 전공 지식 정리
 
----
-## Study Member
-### [🤍sieukim🤍](https://github.com/sieukim) 
-### [🤍ye1ne🤍](https://github.com/ye1ne)
+
+## Collaborator
+<p>
+<a href="https://github.com/ye1ne">
+  <img src="images/ye1ne.png" width="100">
+</a>
+<a href="https://github.com/sieukim">
+  <img src="images/sieukim.png" width="130">
+</a>
+</p>
+
 
 
 ## Algorithm (알고리즘)
