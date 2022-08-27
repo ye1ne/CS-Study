@@ -3,7 +3,7 @@
 
 
 ## Collaborator
-<p>
+<p align="center">
 <a href="https://github.com/ye1ne">
   <img src="images/ye1ne.png" width="100">
 </a>
