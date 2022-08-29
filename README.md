@@ -18,7 +18,12 @@
 ### [📝Study](./contents/algorithm)
 
 ## Operating System (운영체제)
-### [📝Study](./contents/operating_system)
+### [📝공부내용 보러가기!](./contents/operating_system)
+
+**Study 주제**
+- Process vs Thread
+- MultiThread 와 MultiProcess
+- Cache
 
 
 ## Database (데이터베이스)
