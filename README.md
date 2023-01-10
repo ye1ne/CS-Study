@@ -13,9 +13,15 @@
 </p>
 
 
+## Spring (스프링, 스프링부트...)
+### [📝Study](./contents/spring)
+**Study 주제**
+- @SpringBootApplication 어노테이션 파헤치기
 
-## Algorithm (알고리즘)
-### [📝Study](./contents/algorithm)
+## Java (자바)
+### [📝Study](./contents/java)
+**Study 주제**
+- JVM 파헤치기 1. 메모리구조와 멀티스레드
 
 ## Operating System (운영체제)
 ### [📝공부내용 보러가기](./contents/operating_system)
@@ -33,3 +39,6 @@
 
 ## Network (네트워크)
 ### [📝Study](./contents/network)
+
+## Data Structure (자료구조)
+### [📝Study](./contents/data_structure)
