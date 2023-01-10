@@ -1,7 +1,7 @@
 ## 목차
 - [Process vs Thread](#process-vs-thread)
 - [MultiThread 와 MultiProcess](#multithread-와-multiprocess)
-- [Cache](#cache)
+- [캐시(Cache)](#캐시cache)
 - [데드락(Deadlock)](#데드락-deadlock)
 <br/><br/>
 
@@ -83,7 +83,7 @@
 [목차로 돌아가기](#목차)
 <br/><br/>
 
-## Cache
+## 캐시(Cache)
 ### 캐시 메모리(cache Memory)
 #### 캐시 메모리란 ?
 - 주기억장치에서 자주 사용하는 프로그램과 데이터를 저장해두고 속도를 빠르게 하는 메모리
